@@ -1,0 +1,20 @@
+{
+  "name": "node_stocks",
+  "version": "1.0.0",
+  "description": "stock app built from node & angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jammin2shirts/Node_Stocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jammin2shirts/Node_Stocks/issues"
+  },
+  "homepage": "https://github.com/jammin2shirts/Node_Stocks#readme"
+}
